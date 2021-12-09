@@ -1,10 +1,6 @@
-# URA: Research Title Here
+# URA: COVID VACCINATION & NEWS SCRAPER
 
 This website will act as a an archive for past datasets and will update automatically everytime the script is run. 
-
-<!-- You can use the [editor on GitHub](https://github.com/KevinPirabaharan/URA_Tools/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
 # Data Sets:
 ## December 09, 2021 
