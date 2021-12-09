@@ -1,4 +1,4 @@
-## URA: Research Title Here
+# URA: Research Title Here
 
 This website will act as a an archive for past datasets and will update automatically everytime the script is run. 
 
@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Data Sets:
 ## December 09, 2021 
-![Image](https://thomashueblonline.com/wp-content/uploads/2017/01/zip-file-icon.jpg) **Data set can be found [here](https://kevinpirabaharan.github.io/URA_Tools/assets/Dec_09_2021_Data.zip)
+![Image](https://p1.hiclipart.com/preview/889/1013/67/vista-rtm-wow-icon-zip-file-fold-with-zipper-icon-png-clipart.jpg) **Data set can be found [here](https://kevinpirabaharan.github.io/URA_Tools/assets/Dec_09_2021_Data.zip)**
 
 <!-- For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
