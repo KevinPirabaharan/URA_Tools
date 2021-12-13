@@ -4,7 +4,7 @@ This website will act as a an archive for past datasets and will update automati
 
 ## Datasets:
 ### December 12, 2021 
-- Routine update of data set to current date
+- Routine update of dataset to current date
 
 
 ![Image](https://kevinpirabaharan.github.io/URA_Tools/img/file.png) **[Dataset can be found here](https://kevinpirabaharan.github.io/URA_Tools/assets/Dec_13_2021_Data.zip)**
