@@ -2,15 +2,15 @@
 
 This website will act as a an archive for past datasets and will update automatically everytime the script is run. 
 
-## Data Sets:
+## Datasets:
 ### December 12, 2021 
 - Routine update of data set to current date
-![Image](https://kevinpirabaharan.github.io/URA_Tools/img/file.png) **[Data set can be found here](https://kevinpirabaharan.github.io/URA_Tools/assets/Dec_13_2021_Data.zip)**
+![Image](https://kevinpirabaharan.github.io/URA_Tools/img/file.png) **[Dataset can be found here](https://kevinpirabaharan.github.io/URA_Tools/assets/Dec_13_2021_Data.zip)**
 ### December 09, 2021 
 - News dataset has been adjusted to accomodate keywords in regards to: a third dose, booster dose, vaccine passport, certificate, and the delta and Omnicron variants
 - Vaccine dataset updated to accomodate changes used in regards to vaccine products name with newer revisions.
 - Scripts were updated for automatic use and runtime.
-![Image](https://kevinpirabaharan.github.io/URA_Tools/img/file.png) **[Data set can be found here](https://kevinpirabaharan.github.io/URA_Tools/assets/Dec_09_2021_Data.zip)**
+![Image](https://kevinpirabaharan.github.io/URA_Tools/img/file.png) **[Dataset can be found here](https://kevinpirabaharan.github.io/URA_Tools/assets/Dec_09_2021_Data.zip)**
 
 <!-- For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
