@@ -3,6 +3,16 @@
 This website will act as a an archive for past datasets and will update automatically everytime the script is run. 
 
 ## Datasets:
+### December 26, 2021 
+- Routine update of dataset to current date
+
+
+![Image](https://kevinpirabaharan.github.io/URA_Tools/img/file.png) **[Dataset can be found here](https://kevinpirabaharan.github.io/URA_Tools/assets/Dec_26_2021_Data.zip)**
+### December 19, 2021 
+- Routine update of dataset to current date
+
+
+![Image](https://kevinpirabaharan.github.io/URA_Tools/img/file.png) **[Dataset can be found here](https://kevinpirabaharan.github.io/URA_Tools/assets/Dec_19_2021_Data.zip)**
 ### December 12, 2021 
 - Routine update of dataset to current date
 
