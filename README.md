@@ -3,11 +3,11 @@
 This website will act as a an archive for past datasets and will update automatically everytime the script is run. 
 
 ## Datasets:
-### January 03, 2021 
-- Routine update of dataset to current date
+### January 10, 2021 
+- Vaccine datascraper updated with new data provided by government. Accounts for new datapoints on vaccine booster doses and new products.
 
 
-![Image](https://kevinpirabaharan.github.io/URA_Tools/img/file.png) **[Dataset can be found here](https://kevinpirabaharan.github.io/URA_Tools/assets/Jan_03_2022_Data.zip)**
+![Image](https://kevinpirabaharan.github.io/URA_Tools/img/file.png) **[Dataset can be found here](https://kevinpirabaharan.github.io/URA_Tools/assets/Jan_10_2022_Data.zip)**
 ### December 26, 2021 
 - Routine update of dataset to current date
 
